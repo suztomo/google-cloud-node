@@ -11,7 +11,20 @@
     "packages/google-cloud-security-publicca": {},
     "packages/google-cloud-vpc-access": {},
     "packages/google-iam": {},
-    "packages/typeless-sample-bot": {}
+    "packages/typeless-sample-bot": {},
+    "packages/google-cloud-redis": {},
+    "packages/google-cloud-security-publicca": {},
+    "packages/google-devtools-artifactregistry": {},
+    "packages/google-iam": {},
+    "packages/typeless-sample-bot": {},
+    "packages/google-cloud-bigquery-datapolicies": {},
+    "packages/google-cloud-bigquery-analyticshub": {},
+    "packages/google-maps-routing": {}
   },
+  "plugins": [
+    {
+      "type": "sentence-case"
+    }
+  ],
   "release-type": "node"
 }
