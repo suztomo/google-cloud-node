@@ -2237,6 +2237,7 @@ libraries:
   - name: google-shopping-merchant-reviews
     version: 0.8.0
     apis:
+      - path: google/shopping/merchant/reviews/v1
       - path: google/shopping/merchant/reviews/v1beta
     copyright_year: "2026"
     nodejs:
